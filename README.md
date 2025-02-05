@@ -119,8 +119,3 @@ Pull requests are welcome! If you find any issues or want to improve something, 
 
 ## 📌 License
 This project is open-source and available under the **MIT License**.
-
----
-
-Now, the **README.md** is fully structured and documented. Let me know if you want any modifications! 🚀
-
